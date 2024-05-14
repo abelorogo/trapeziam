@@ -21,6 +21,10 @@ let TotalArea= AreaOfSquare +AreaOfTriangle1 + AreaOfTriangle3
 console.log(TotalArea)
 
     
+document.getElementById("a").onclick=function(){
+
+    document.getElementById("ar").innerHTML=`the area of the trapezium is ${TotalArea}`
+}
 }
 
 
