@@ -35,7 +35,7 @@ a=40
 b=20
 height=16
 
-area= 1/2 * (40+20) * 20
+area= 1/2 * (a+b) * h
 
 console.log(area)
 
