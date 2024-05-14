@@ -6,7 +6,7 @@ let height1= 16
 let AreaOfTriangle1= 1/2* base1 * height1
 
 //area of the square
-let Square_height=20
+let Square_height=16
 let  Square_base =20
 
 let AreaOfSquare= Square_base *Square_height
